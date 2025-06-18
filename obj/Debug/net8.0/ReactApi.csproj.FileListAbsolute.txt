@@ -293,4 +293,4 @@ C:\Users\dell\source\repos\ReactApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\Mic
 C:\Users\dell\source\repos\ReactApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\dell\source\repos\ReactApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\dell\source\repos\ReactApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
-C:\Users\dell\source\repos\ReactApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\dell\source\repos\ReactApi\obj\Debug\net8.0\ReactApi.sourcelink.json

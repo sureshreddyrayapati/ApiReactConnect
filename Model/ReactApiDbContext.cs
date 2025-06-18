@@ -9,5 +9,6 @@ namespace ReactApi.Model
         }
 
         public DbSet<Product> Products { get; set; }
+        public DbSet<Cooldrink> Cooldrinks { get;set;}
     }
 }

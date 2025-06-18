@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\ReactApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|c:\\users\\dell\\source\\repos\\reactapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|c:\\users\\dell\\source\\repos\\reactapi\\migrations\\20250618174544_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|solutionrelative:migrations\\20250618174544_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|c:\\users\\dell\\source\\repos\\reactapi\\migrations\\reactapidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|solutionrelative:migrations\\reactapidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|c:\\users\\dell\\source\\repos\\reactapi\\model\\reactapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|solutionrelative:model\\reactapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|c:\\users\\dell\\source\\repos\\reactapi\\model\\cooldrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|solutionrelative:model\\cooldrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|c:\\users\\dell\\source\\repos\\reactapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|c:\\users\\dell\\source\\repos\\reactapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|c:\\users\\dell\\source\\repos\\reactapi\\reactapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|solutionrelative:reactapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|c:\\users\\dell\\source\\repos\\reactapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|c:\\users\\dell\\source\\repos\\reactapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{603AA660-94DC-4A4F-A3DF-0B422ADD9F91}|ReactApi.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +82,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250618174544_secondcreate.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ReactApi\\Migrations\\20250618174544_secondcreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250618174544_secondcreate.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ReactApi\\Migrations\\20250618174544_secondcreate.cs",
+              "RelativeToolTip": "Migrations\\20250618174544_secondcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T18:14:22.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReactApiDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ReactApi\\Migrations\\ReactApiDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ReactApiDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ReactApi\\Migrations\\ReactApiDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ReactApiDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T18:13:49.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Cooldrink.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ReactApi\\Model\\Cooldrink.cs",
+              "RelativeDocumentMoniker": "Model\\Cooldrink.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ReactApi\\Model\\Cooldrink.cs",
+              "RelativeToolTip": "Model\\Cooldrink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:34:48.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ReactApi.http",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ReactApi\\ReactApi.http",
               "RelativeDocumentMoniker": "ReactApi.http",
@@ -78,38 +129,37 @@
               "RelativeToolTip": "ReactApi.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-15T09:06:06.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T09:06:06.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ReactApi\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\dell\\source\\repos\\ReactApi\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T08:10:13.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ReactApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\dell\\source\\repos\\ReactApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T07:47:29.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ReactApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -117,25 +167,24 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-15T07:39:55.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T07:39:55.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ReactApiDbContext.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ReactApi\\Model\\ReactApiDbContext.cs",
               "RelativeDocumentMoniker": "Model\\ReactApiDbContext.cs",
               "ToolTip": "C:\\Users\\dell\\source\\repos\\ReactApi\\Model\\ReactApiDbContext.cs",
               "RelativeToolTip": "Model\\ReactApiDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T07:30:55.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ReactApi\\Model\\Product.cs",
               "RelativeDocumentMoniker": "Model\\Product.cs",
@@ -148,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ReactApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -156,8 +205,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-15T07:20:14.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T07:20:14.266Z"
             }
           ]
         },
